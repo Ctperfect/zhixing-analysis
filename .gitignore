@@ -1,0 +1,8 @@
+# Local discussions, personal scenarios, backups and validation outputs.
+/docs/
+/CONTEXT.md
+/.local/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db

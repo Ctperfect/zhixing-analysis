@@ -1,0 +1,4 @@
+interface:
+  display_name: "知行问题分析"
+  short_description: "梳理生活疑虑与项目，按需简答、深入讨论或选择阶段到每日规划，用反馈持续调整"
+  default_prompt: "使用 $zhixing-analysis 帮我梳理这个问题，先给有依据的初步判断；需要详细规划时，再确认这次的规划粒度和时间范围。"
