@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">把问题想清楚，让下一步有依据。</title>
+  <desc id="desc">知行问题分析的工作方式：理解处境、推进实践、根据反馈调整。</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#b0d4ce" stroke-opacity=".06"/>
+    </pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102b2b"/>
+      <stop offset="1" stop-color="#101d2a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="20" fill="url(#grid)"/>
+  <path d="M 650 280 C 710 220 635 108 744 0" fill="none" stroke="#80d5b2" stroke-opacity=".09" stroke-width="90"/>
+  <g font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif">
+    <text x="64" y="57" fill="#93d9bd" font-family="ui-monospace, Consolas, monospace" font-size="13" letter-spacing="3">THINK · DECIDE · ACT</text>
+    <text x="61" y="126" fill="#f3f5ef" font-size="44" font-weight="700">把问题想清楚，</text>
+    <text x="61" y="187" fill="#f3f5ef" font-size="44" font-weight="700">让下一步有依据。</text>
+    <text x="64" y="233" fill="#a6bebc" font-size="17">从理解到实践，再用反馈修正认识。</text>
+    <path d="M 848 79 L 848 201" stroke="#38625b" stroke-width="2"/>
+    <g>
+      <circle cx="848" cy="79" r="17" fill="#203d3b" stroke="#528c75"/>
+      <text x="848" y="84" text-anchor="middle" fill="#a5e4c6" font-size="13" font-family="ui-monospace, Consolas, monospace">01</text>
+      <text x="884" y="85" fill="#d9e7e2" font-size="19">理解处境与取舍</text>
+    </g>
+    <g>
+      <circle cx="848" cy="140" r="17" fill="#203d3b" stroke="#528c75"/>
+      <text x="848" y="145" text-anchor="middle" fill="#a5e4c6" font-size="13" font-family="ui-monospace, Consolas, monospace">02</text>
+      <text x="884" y="146" fill="#d9e7e2" font-size="19">组织并推进实践</text>
+    </g>
+    <g>
+      <circle cx="848" cy="201" r="17" fill="#203d3b" stroke="#528c75"/>
+      <text x="848" y="206" text-anchor="middle" fill="#a5e4c6" font-size="13" font-family="ui-monospace, Consolas, monospace">03</text>
+      <text x="884" y="207" fill="#d9e7e2" font-size="19">根据反馈调整</text>
+    </g>
+  </g>
+</svg>
