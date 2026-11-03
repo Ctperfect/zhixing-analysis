@@ -1,4 +1,4 @@
 interface:
   display_name: "知行问题分析"
-  short_description: "梳理生活问题与项目，集中讨论关键取舍，形成可承担的行动，用多文件记录和反馈持续推进"
-  default_prompt: "使用 $zhixing-analysis 帮我梳理这个问题，先给有依据的理解与方向，说明本轮问题的理由，再一起形成可承担的下一步和反馈办法。"
+  short_description: "帮你看清问题、作出取舍，形成可承担的行动，并根据反馈持续调整"
+  default_prompt: "使用 $zhixing-analysis 帮我梳理这个问题，结合我的处境看清问题与取舍，再按需要形成可承担的行动和反馈办法。"
